@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aditya Ghadge</h1>
-<h3 align="center">A Web3/Full-Stack Developer and Blockchain Enthusiast. With experience in multiple programming languages including JavaScript, and Python, I'm passionate about developing innovative solutions that drive positive change in the world. My repositories showcase a variety of projects in different domains, including web development, database management, and blockchain development. I'm always looking for new opportunities to learn, collaborate with other developers, and contribute to open-source projects. Let's build the future together!</h3>
+<h1 align="center">Hi 👋, I'm Sumit Shinde</h1>
+<h3 align="center">A Full-Stack Developer and Blockchain Enthusiast. With experience in multiple programming languages including JavaScript, and Python, I'm passionate about developing innovative solutions that drive positive change in the world. My repositories showcase a variety of projects in different domains, including web development, database management, and blockchain development. I'm always looking for new opportunities to learn, collaborate with other developers, and contribute to open-source projects. Let's build the future together!</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aditya-A-G?tab=repositories](https://github.com/Aditya-A-G?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sumitshinde-84?tab=repositories](https://github.com/sumitshinde-84?tab=repositories)
 
 - 💬 Ask me about **web3**
 
-- 📫 How to reach me **adityaghadge360@gmail.com**
+- 📫 How to reach me **shindesumit17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aditya92223676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya92223676" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-ghadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-ghadge" height="30" width="40" /></a>
+<a href="https://twitter.com/Code_with_Roni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumit92223676" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-ghadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-shinde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
